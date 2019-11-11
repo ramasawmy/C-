@@ -1,0 +1,11 @@
+C:\Users\steven.ramasawmy\source\repos\Day_3.1\Day_3.1\bin\Debug\netcoreapp3.0\Day_3.1.exe
+C:\Users\steven.ramasawmy\source\repos\Day_3.1\Day_3.1\bin\Debug\netcoreapp3.0\Day_3.1.deps.json
+C:\Users\steven.ramasawmy\source\repos\Day_3.1\Day_3.1\bin\Debug\netcoreapp3.0\Day_3.1.runtimeconfig.json
+C:\Users\steven.ramasawmy\source\repos\Day_3.1\Day_3.1\bin\Debug\netcoreapp3.0\Day_3.1.runtimeconfig.dev.json
+C:\Users\steven.ramasawmy\source\repos\Day_3.1\Day_3.1\bin\Debug\netcoreapp3.0\Day_3.1.dll
+C:\Users\steven.ramasawmy\source\repos\Day_3.1\Day_3.1\bin\Debug\netcoreapp3.0\Day_3.1.pdb
+C:\Users\steven.ramasawmy\source\repos\Day_3.1\Day_3.1\obj\Debug\netcoreapp3.0\Day_3.1.csprojAssemblyReference.cache
+C:\Users\steven.ramasawmy\source\repos\Day_3.1\Day_3.1\obj\Debug\netcoreapp3.0\Day_3.1.AssemblyInfoInputs.cache
+C:\Users\steven.ramasawmy\source\repos\Day_3.1\Day_3.1\obj\Debug\netcoreapp3.0\Day_3.1.AssemblyInfo.cs
+C:\Users\steven.ramasawmy\source\repos\Day_3.1\Day_3.1\obj\Debug\netcoreapp3.0\Day_3.1.dll
+C:\Users\steven.ramasawmy\source\repos\Day_3.1\Day_3.1\obj\Debug\netcoreapp3.0\Day_3.1.pdb
