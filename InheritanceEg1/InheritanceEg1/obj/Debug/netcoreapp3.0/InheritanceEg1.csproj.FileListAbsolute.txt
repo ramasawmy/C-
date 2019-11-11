@@ -1,0 +1,8 @@
+C:\Users\steven.ramasawmy\source\repos\InheritanceEg1\InheritanceEg1\bin\Debug\netcoreapp3.0\InheritanceEg1.deps.json
+C:\Users\steven.ramasawmy\source\repos\InheritanceEg1\InheritanceEg1\bin\Debug\netcoreapp3.0\InheritanceEg1.dll
+C:\Users\steven.ramasawmy\source\repos\InheritanceEg1\InheritanceEg1\bin\Debug\netcoreapp3.0\InheritanceEg1.pdb
+C:\Users\steven.ramasawmy\source\repos\InheritanceEg1\InheritanceEg1\obj\Debug\netcoreapp3.0\InheritanceEg1.csprojAssemblyReference.cache
+C:\Users\steven.ramasawmy\source\repos\InheritanceEg1\InheritanceEg1\obj\Debug\netcoreapp3.0\InheritanceEg1.AssemblyInfoInputs.cache
+C:\Users\steven.ramasawmy\source\repos\InheritanceEg1\InheritanceEg1\obj\Debug\netcoreapp3.0\InheritanceEg1.AssemblyInfo.cs
+C:\Users\steven.ramasawmy\source\repos\InheritanceEg1\InheritanceEg1\obj\Debug\netcoreapp3.0\InheritanceEg1.dll
+C:\Users\steven.ramasawmy\source\repos\InheritanceEg1\InheritanceEg1\obj\Debug\netcoreapp3.0\InheritanceEg1.pdb
