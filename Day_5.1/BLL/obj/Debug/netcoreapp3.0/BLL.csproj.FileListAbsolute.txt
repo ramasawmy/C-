@@ -1,0 +1,8 @@
+C:\Users\steven.ramasawmy\source\repos\Day_5.1\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+C:\Users\steven.ramasawmy\source\repos\Day_5.1\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+C:\Users\steven.ramasawmy\source\repos\Day_5.1\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+C:\Users\steven.ramasawmy\source\repos\Day_5.1\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+C:\Users\steven.ramasawmy\source\repos\Day_5.1\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+C:\Users\steven.ramasawmy\source\repos\Day_5.1\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+C:\Users\steven.ramasawmy\source\repos\Day_5.1\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+C:\Users\steven.ramasawmy\source\repos\Day_5.1\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
