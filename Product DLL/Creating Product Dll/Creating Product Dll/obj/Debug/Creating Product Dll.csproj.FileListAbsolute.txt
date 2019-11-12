@@ -1,0 +1,5 @@
+C:\Users\steven.ramasawmy\source\repos\Creating Product Dll\Creating Product Dll\bin\Debug\Creating Product Dll.dll
+C:\Users\steven.ramasawmy\source\repos\Creating Product Dll\Creating Product Dll\bin\Debug\Creating Product Dll.pdb
+C:\Users\steven.ramasawmy\source\repos\Creating Product Dll\Creating Product Dll\obj\Debug\Creating Product Dll.csprojAssemblyReference.cache
+C:\Users\steven.ramasawmy\source\repos\Creating Product Dll\Creating Product Dll\obj\Debug\Creating Product Dll.dll
+C:\Users\steven.ramasawmy\source\repos\Creating Product Dll\Creating Product Dll\obj\Debug\Creating Product Dll.pdb
