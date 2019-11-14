@@ -1,0 +1,6 @@
+C:\Users\steven.ramasawmy\source\repos\Delegates in c-Sharp\Delegates in c-Sharp\obj\Debug\Delegates in c-Sharp.csprojAssemblyReference.cache
+C:\Users\steven.ramasawmy\source\repos\Delegates in c-Sharp\Delegates in c-Sharp\bin\Debug\Delegates in c-Sharp.exe.config
+C:\Users\steven.ramasawmy\source\repos\Delegates in c-Sharp\Delegates in c-Sharp\bin\Debug\Delegates in c-Sharp.exe
+C:\Users\steven.ramasawmy\source\repos\Delegates in c-Sharp\Delegates in c-Sharp\bin\Debug\Delegates in c-Sharp.pdb
+C:\Users\steven.ramasawmy\source\repos\Delegates in c-Sharp\Delegates in c-Sharp\obj\Debug\Delegates in c-Sharp.exe
+C:\Users\steven.ramasawmy\source\repos\Delegates in c-Sharp\Delegates in c-Sharp\obj\Debug\Delegates in c-Sharp.pdb
