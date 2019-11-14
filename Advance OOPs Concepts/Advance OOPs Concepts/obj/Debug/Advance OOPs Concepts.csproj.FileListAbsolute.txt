@@ -1,0 +1,6 @@
+C:\Users\steven.ramasawmy\source\repos\Advance OOPs Concepts\Advance OOPs Concepts\bin\Debug\Advance OOPs Concepts.exe.config
+C:\Users\steven.ramasawmy\source\repos\Advance OOPs Concepts\Advance OOPs Concepts\bin\Debug\Advance OOPs Concepts.exe
+C:\Users\steven.ramasawmy\source\repos\Advance OOPs Concepts\Advance OOPs Concepts\bin\Debug\Advance OOPs Concepts.pdb
+C:\Users\steven.ramasawmy\source\repos\Advance OOPs Concepts\Advance OOPs Concepts\obj\Debug\Advance OOPs Concepts.csprojAssemblyReference.cache
+C:\Users\steven.ramasawmy\source\repos\Advance OOPs Concepts\Advance OOPs Concepts\obj\Debug\Advance OOPs Concepts.exe
+C:\Users\steven.ramasawmy\source\repos\Advance OOPs Concepts\Advance OOPs Concepts\obj\Debug\Advance OOPs Concepts.pdb
