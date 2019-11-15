@@ -1,0 +1,6 @@
+C:\Users\steven.ramasawmy\source\repos\Interface Segregatoin Principle\Interface Segregatoin Principle\bin\Debug\Interface Segregatoin Principle.exe.config
+C:\Users\steven.ramasawmy\source\repos\Interface Segregatoin Principle\Interface Segregatoin Principle\bin\Debug\Interface Segregatoin Principle.exe
+C:\Users\steven.ramasawmy\source\repos\Interface Segregatoin Principle\Interface Segregatoin Principle\bin\Debug\Interface Segregatoin Principle.pdb
+C:\Users\steven.ramasawmy\source\repos\Interface Segregatoin Principle\Interface Segregatoin Principle\obj\Debug\Interface Segregatoin Principle.csprojAssemblyReference.cache
+C:\Users\steven.ramasawmy\source\repos\Interface Segregatoin Principle\Interface Segregatoin Principle\obj\Debug\Interface Segregatoin Principle.exe
+C:\Users\steven.ramasawmy\source\repos\Interface Segregatoin Principle\Interface Segregatoin Principle\obj\Debug\Interface Segregatoin Principle.pdb
