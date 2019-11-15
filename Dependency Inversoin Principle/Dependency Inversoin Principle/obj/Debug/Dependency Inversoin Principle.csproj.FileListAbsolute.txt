@@ -1,0 +1,6 @@
+C:\Users\steven.ramasawmy\source\repos\Dependency Inversoin Principle\Dependency Inversoin Principle\bin\Debug\Dependency Inversoin Principle.exe.config
+C:\Users\steven.ramasawmy\source\repos\Dependency Inversoin Principle\Dependency Inversoin Principle\bin\Debug\Dependency Inversoin Principle.exe
+C:\Users\steven.ramasawmy\source\repos\Dependency Inversoin Principle\Dependency Inversoin Principle\bin\Debug\Dependency Inversoin Principle.pdb
+C:\Users\steven.ramasawmy\source\repos\Dependency Inversoin Principle\Dependency Inversoin Principle\obj\Debug\Dependency Inversoin Principle.csprojAssemblyReference.cache
+C:\Users\steven.ramasawmy\source\repos\Dependency Inversoin Principle\Dependency Inversoin Principle\obj\Debug\Dependency Inversoin Principle.exe
+C:\Users\steven.ramasawmy\source\repos\Dependency Inversoin Principle\Dependency Inversoin Principle\obj\Debug\Dependency Inversoin Principle.pdb
