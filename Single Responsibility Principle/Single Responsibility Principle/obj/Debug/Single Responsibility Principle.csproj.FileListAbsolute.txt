@@ -1,0 +1,6 @@
+C:\Users\steven.ramasawmy\source\repos\Single Responsibility Principle\Single Responsibility Principle\bin\Debug\Single Responsibility Principle.exe.config
+C:\Users\steven.ramasawmy\source\repos\Single Responsibility Principle\Single Responsibility Principle\bin\Debug\Single Responsibility Principle.exe
+C:\Users\steven.ramasawmy\source\repos\Single Responsibility Principle\Single Responsibility Principle\bin\Debug\Single Responsibility Principle.pdb
+C:\Users\steven.ramasawmy\source\repos\Single Responsibility Principle\Single Responsibility Principle\obj\Debug\Single Responsibility Principle.csprojAssemblyReference.cache
+C:\Users\steven.ramasawmy\source\repos\Single Responsibility Principle\Single Responsibility Principle\obj\Debug\Single Responsibility Principle.exe
+C:\Users\steven.ramasawmy\source\repos\Single Responsibility Principle\Single Responsibility Principle\obj\Debug\Single Responsibility Principle.pdb
