@@ -1,0 +1,6 @@
+C:\Users\steven.ramasawmy\source\repos\open closed principle\open closed principle\bin\Debug\open closed principle.exe.config
+C:\Users\steven.ramasawmy\source\repos\open closed principle\open closed principle\bin\Debug\open closed principle.exe
+C:\Users\steven.ramasawmy\source\repos\open closed principle\open closed principle\bin\Debug\open closed principle.pdb
+C:\Users\steven.ramasawmy\source\repos\open closed principle\open closed principle\obj\Debug\open closed principle.csprojAssemblyReference.cache
+C:\Users\steven.ramasawmy\source\repos\open closed principle\open closed principle\obj\Debug\open closed principle.exe
+C:\Users\steven.ramasawmy\source\repos\open closed principle\open closed principle\obj\Debug\open closed principle.pdb
