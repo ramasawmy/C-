@@ -1,0 +1,11 @@
+C:\Users\steven.ramasawmy\source\repos\Factory Method Real Code\Factory Method Real Code\obj\Debug\netcoreapp3.0\Factory Method Real Code.csprojAssemblyReference.cache
+C:\Users\steven.ramasawmy\source\repos\Factory Method Real Code\Factory Method Real Code\obj\Debug\netcoreapp3.0\Factory Method Real Code.AssemblyInfoInputs.cache
+C:\Users\steven.ramasawmy\source\repos\Factory Method Real Code\Factory Method Real Code\obj\Debug\netcoreapp3.0\Factory Method Real Code.AssemblyInfo.cs
+C:\Users\steven.ramasawmy\source\repos\Factory Method Real Code\Factory Method Real Code\bin\Debug\netcoreapp3.0\Factory Method Real Code.exe
+C:\Users\steven.ramasawmy\source\repos\Factory Method Real Code\Factory Method Real Code\bin\Debug\netcoreapp3.0\Factory Method Real Code.deps.json
+C:\Users\steven.ramasawmy\source\repos\Factory Method Real Code\Factory Method Real Code\bin\Debug\netcoreapp3.0\Factory Method Real Code.runtimeconfig.json
+C:\Users\steven.ramasawmy\source\repos\Factory Method Real Code\Factory Method Real Code\bin\Debug\netcoreapp3.0\Factory Method Real Code.runtimeconfig.dev.json
+C:\Users\steven.ramasawmy\source\repos\Factory Method Real Code\Factory Method Real Code\bin\Debug\netcoreapp3.0\Factory Method Real Code.dll
+C:\Users\steven.ramasawmy\source\repos\Factory Method Real Code\Factory Method Real Code\bin\Debug\netcoreapp3.0\Factory Method Real Code.pdb
+C:\Users\steven.ramasawmy\source\repos\Factory Method Real Code\Factory Method Real Code\obj\Debug\netcoreapp3.0\Factory Method Real Code.dll
+C:\Users\steven.ramasawmy\source\repos\Factory Method Real Code\Factory Method Real Code\obj\Debug\netcoreapp3.0\Factory Method Real Code.pdb
