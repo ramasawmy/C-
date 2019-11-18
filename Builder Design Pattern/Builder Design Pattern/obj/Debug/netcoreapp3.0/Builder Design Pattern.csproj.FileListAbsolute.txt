@@ -1,0 +1,11 @@
+C:\Users\steven.ramasawmy\source\repos\Builder Design Pattern\Builder Design Pattern\bin\Debug\netcoreapp3.0\Builder Design Pattern.exe
+C:\Users\steven.ramasawmy\source\repos\Builder Design Pattern\Builder Design Pattern\bin\Debug\netcoreapp3.0\Builder Design Pattern.deps.json
+C:\Users\steven.ramasawmy\source\repos\Builder Design Pattern\Builder Design Pattern\bin\Debug\netcoreapp3.0\Builder Design Pattern.runtimeconfig.json
+C:\Users\steven.ramasawmy\source\repos\Builder Design Pattern\Builder Design Pattern\bin\Debug\netcoreapp3.0\Builder Design Pattern.runtimeconfig.dev.json
+C:\Users\steven.ramasawmy\source\repos\Builder Design Pattern\Builder Design Pattern\bin\Debug\netcoreapp3.0\Builder Design Pattern.dll
+C:\Users\steven.ramasawmy\source\repos\Builder Design Pattern\Builder Design Pattern\bin\Debug\netcoreapp3.0\Builder Design Pattern.pdb
+C:\Users\steven.ramasawmy\source\repos\Builder Design Pattern\Builder Design Pattern\obj\Debug\netcoreapp3.0\Builder Design Pattern.csprojAssemblyReference.cache
+C:\Users\steven.ramasawmy\source\repos\Builder Design Pattern\Builder Design Pattern\obj\Debug\netcoreapp3.0\Builder Design Pattern.AssemblyInfoInputs.cache
+C:\Users\steven.ramasawmy\source\repos\Builder Design Pattern\Builder Design Pattern\obj\Debug\netcoreapp3.0\Builder Design Pattern.AssemblyInfo.cs
+C:\Users\steven.ramasawmy\source\repos\Builder Design Pattern\Builder Design Pattern\obj\Debug\netcoreapp3.0\Builder Design Pattern.dll
+C:\Users\steven.ramasawmy\source\repos\Builder Design Pattern\Builder Design Pattern\obj\Debug\netcoreapp3.0\Builder Design Pattern.pdb

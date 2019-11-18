@@ -1,0 +1,11 @@
+C:\Users\steven.ramasawmy\source\repos\Builder Code Example\Builder Code Example\bin\Debug\netcoreapp3.0\Builder Code Example.exe
+C:\Users\steven.ramasawmy\source\repos\Builder Code Example\Builder Code Example\bin\Debug\netcoreapp3.0\Builder Code Example.deps.json
+C:\Users\steven.ramasawmy\source\repos\Builder Code Example\Builder Code Example\bin\Debug\netcoreapp3.0\Builder Code Example.runtimeconfig.json
+C:\Users\steven.ramasawmy\source\repos\Builder Code Example\Builder Code Example\bin\Debug\netcoreapp3.0\Builder Code Example.runtimeconfig.dev.json
+C:\Users\steven.ramasawmy\source\repos\Builder Code Example\Builder Code Example\bin\Debug\netcoreapp3.0\Builder Code Example.dll
+C:\Users\steven.ramasawmy\source\repos\Builder Code Example\Builder Code Example\bin\Debug\netcoreapp3.0\Builder Code Example.pdb
+C:\Users\steven.ramasawmy\source\repos\Builder Code Example\Builder Code Example\obj\Debug\netcoreapp3.0\Builder Code Example.csprojAssemblyReference.cache
+C:\Users\steven.ramasawmy\source\repos\Builder Code Example\Builder Code Example\obj\Debug\netcoreapp3.0\Builder Code Example.AssemblyInfoInputs.cache
+C:\Users\steven.ramasawmy\source\repos\Builder Code Example\Builder Code Example\obj\Debug\netcoreapp3.0\Builder Code Example.AssemblyInfo.cs
+C:\Users\steven.ramasawmy\source\repos\Builder Code Example\Builder Code Example\obj\Debug\netcoreapp3.0\Builder Code Example.dll
+C:\Users\steven.ramasawmy\source\repos\Builder Code Example\Builder Code Example\obj\Debug\netcoreapp3.0\Builder Code Example.pdb

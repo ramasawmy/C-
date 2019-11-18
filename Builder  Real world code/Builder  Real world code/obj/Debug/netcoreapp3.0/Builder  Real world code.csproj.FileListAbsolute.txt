@@ -1,0 +1,10 @@
+C:\Users\steven.ramasawmy\source\repos\Builder  Real world code\Builder  Real world code\bin\Debug\netcoreapp3.0\Builder  Real world code.exe
+C:\Users\steven.ramasawmy\source\repos\Builder  Real world code\Builder  Real world code\bin\Debug\netcoreapp3.0\Builder  Real world code.deps.json
+C:\Users\steven.ramasawmy\source\repos\Builder  Real world code\Builder  Real world code\bin\Debug\netcoreapp3.0\Builder  Real world code.runtimeconfig.json
+C:\Users\steven.ramasawmy\source\repos\Builder  Real world code\Builder  Real world code\bin\Debug\netcoreapp3.0\Builder  Real world code.runtimeconfig.dev.json
+C:\Users\steven.ramasawmy\source\repos\Builder  Real world code\Builder  Real world code\bin\Debug\netcoreapp3.0\Builder  Real world code.dll
+C:\Users\steven.ramasawmy\source\repos\Builder  Real world code\Builder  Real world code\bin\Debug\netcoreapp3.0\Builder  Real world code.pdb
+C:\Users\steven.ramasawmy\source\repos\Builder  Real world code\Builder  Real world code\obj\Debug\netcoreapp3.0\Builder  Real world code.AssemblyInfoInputs.cache
+C:\Users\steven.ramasawmy\source\repos\Builder  Real world code\Builder  Real world code\obj\Debug\netcoreapp3.0\Builder  Real world code.AssemblyInfo.cs
+C:\Users\steven.ramasawmy\source\repos\Builder  Real world code\Builder  Real world code\obj\Debug\netcoreapp3.0\Builder  Real world code.dll
+C:\Users\steven.ramasawmy\source\repos\Builder  Real world code\Builder  Real world code\obj\Debug\netcoreapp3.0\Builder  Real world code.pdb

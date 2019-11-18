@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Builder  Real world code/1.0.0": {
+        "runtime": {
+          "Builder  Real world code.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Builder  Real world code/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
