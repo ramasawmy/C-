@@ -1,0 +1,11 @@
+C:\Users\steven.ramasawmy\source\repos\Prototype Real World Code\Prototype Real World Code\bin\Debug\netcoreapp3.0\Prototype Real World Code.exe
+C:\Users\steven.ramasawmy\source\repos\Prototype Real World Code\Prototype Real World Code\bin\Debug\netcoreapp3.0\Prototype Real World Code.deps.json
+C:\Users\steven.ramasawmy\source\repos\Prototype Real World Code\Prototype Real World Code\bin\Debug\netcoreapp3.0\Prototype Real World Code.runtimeconfig.json
+C:\Users\steven.ramasawmy\source\repos\Prototype Real World Code\Prototype Real World Code\bin\Debug\netcoreapp3.0\Prototype Real World Code.runtimeconfig.dev.json
+C:\Users\steven.ramasawmy\source\repos\Prototype Real World Code\Prototype Real World Code\bin\Debug\netcoreapp3.0\Prototype Real World Code.dll
+C:\Users\steven.ramasawmy\source\repos\Prototype Real World Code\Prototype Real World Code\bin\Debug\netcoreapp3.0\Prototype Real World Code.pdb
+C:\Users\steven.ramasawmy\source\repos\Prototype Real World Code\Prototype Real World Code\obj\Debug\netcoreapp3.0\Prototype Real World Code.csprojAssemblyReference.cache
+C:\Users\steven.ramasawmy\source\repos\Prototype Real World Code\Prototype Real World Code\obj\Debug\netcoreapp3.0\Prototype Real World Code.AssemblyInfoInputs.cache
+C:\Users\steven.ramasawmy\source\repos\Prototype Real World Code\Prototype Real World Code\obj\Debug\netcoreapp3.0\Prototype Real World Code.AssemblyInfo.cs
+C:\Users\steven.ramasawmy\source\repos\Prototype Real World Code\Prototype Real World Code\obj\Debug\netcoreapp3.0\Prototype Real World Code.dll
+C:\Users\steven.ramasawmy\source\repos\Prototype Real World Code\Prototype Real World Code\obj\Debug\netcoreapp3.0\Prototype Real World Code.pdb
