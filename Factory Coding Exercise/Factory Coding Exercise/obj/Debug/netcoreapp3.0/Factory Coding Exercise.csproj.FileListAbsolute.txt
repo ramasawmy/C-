@@ -1,0 +1,2 @@
+C:\Users\steven.ramasawmy\source\repos\Factory Coding Exercise\Factory Coding Exercise\obj\Debug\netcoreapp3.0\Factory Coding Exercise.AssemblyInfoInputs.cache
+C:\Users\steven.ramasawmy\source\repos\Factory Coding Exercise\Factory Coding Exercise\obj\Debug\netcoreapp3.0\Factory Coding Exercise.AssemblyInfo.cs

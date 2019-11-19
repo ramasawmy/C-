@@ -1,0 +1,11 @@
+C:\Users\steven.ramasawmy\source\repos\Factory Abstract Real Code\Factory Abstract Real Code\bin\Debug\netcoreapp3.0\Factory Abstract Real Code.exe
+C:\Users\steven.ramasawmy\source\repos\Factory Abstract Real Code\Factory Abstract Real Code\bin\Debug\netcoreapp3.0\Factory Abstract Real Code.deps.json
+C:\Users\steven.ramasawmy\source\repos\Factory Abstract Real Code\Factory Abstract Real Code\bin\Debug\netcoreapp3.0\Factory Abstract Real Code.runtimeconfig.json
+C:\Users\steven.ramasawmy\source\repos\Factory Abstract Real Code\Factory Abstract Real Code\bin\Debug\netcoreapp3.0\Factory Abstract Real Code.runtimeconfig.dev.json
+C:\Users\steven.ramasawmy\source\repos\Factory Abstract Real Code\Factory Abstract Real Code\bin\Debug\netcoreapp3.0\Factory Abstract Real Code.dll
+C:\Users\steven.ramasawmy\source\repos\Factory Abstract Real Code\Factory Abstract Real Code\bin\Debug\netcoreapp3.0\Factory Abstract Real Code.pdb
+C:\Users\steven.ramasawmy\source\repos\Factory Abstract Real Code\Factory Abstract Real Code\obj\Debug\netcoreapp3.0\Factory Abstract Real Code.csprojAssemblyReference.cache
+C:\Users\steven.ramasawmy\source\repos\Factory Abstract Real Code\Factory Abstract Real Code\obj\Debug\netcoreapp3.0\Factory Abstract Real Code.AssemblyInfoInputs.cache
+C:\Users\steven.ramasawmy\source\repos\Factory Abstract Real Code\Factory Abstract Real Code\obj\Debug\netcoreapp3.0\Factory Abstract Real Code.AssemblyInfo.cs
+C:\Users\steven.ramasawmy\source\repos\Factory Abstract Real Code\Factory Abstract Real Code\obj\Debug\netcoreapp3.0\Factory Abstract Real Code.dll
+C:\Users\steven.ramasawmy\source\repos\Factory Abstract Real Code\Factory Abstract Real Code\obj\Debug\netcoreapp3.0\Factory Abstract Real Code.pdb
