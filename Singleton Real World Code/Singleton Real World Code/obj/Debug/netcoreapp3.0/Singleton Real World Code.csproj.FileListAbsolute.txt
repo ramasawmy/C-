@@ -1,0 +1,11 @@
+C:\Users\steven.ramasawmy\source\repos\Singleton Real World Code\Singleton Real World Code\bin\Debug\netcoreapp3.0\Singleton Real World Code.exe
+C:\Users\steven.ramasawmy\source\repos\Singleton Real World Code\Singleton Real World Code\bin\Debug\netcoreapp3.0\Singleton Real World Code.deps.json
+C:\Users\steven.ramasawmy\source\repos\Singleton Real World Code\Singleton Real World Code\bin\Debug\netcoreapp3.0\Singleton Real World Code.runtimeconfig.json
+C:\Users\steven.ramasawmy\source\repos\Singleton Real World Code\Singleton Real World Code\bin\Debug\netcoreapp3.0\Singleton Real World Code.runtimeconfig.dev.json
+C:\Users\steven.ramasawmy\source\repos\Singleton Real World Code\Singleton Real World Code\bin\Debug\netcoreapp3.0\Singleton Real World Code.dll
+C:\Users\steven.ramasawmy\source\repos\Singleton Real World Code\Singleton Real World Code\bin\Debug\netcoreapp3.0\Singleton Real World Code.pdb
+C:\Users\steven.ramasawmy\source\repos\Singleton Real World Code\Singleton Real World Code\obj\Debug\netcoreapp3.0\Singleton Real World Code.csprojAssemblyReference.cache
+C:\Users\steven.ramasawmy\source\repos\Singleton Real World Code\Singleton Real World Code\obj\Debug\netcoreapp3.0\Singleton Real World Code.AssemblyInfoInputs.cache
+C:\Users\steven.ramasawmy\source\repos\Singleton Real World Code\Singleton Real World Code\obj\Debug\netcoreapp3.0\Singleton Real World Code.AssemblyInfo.cs
+C:\Users\steven.ramasawmy\source\repos\Singleton Real World Code\Singleton Real World Code\obj\Debug\netcoreapp3.0\Singleton Real World Code.dll
+C:\Users\steven.ramasawmy\source\repos\Singleton Real World Code\Singleton Real World Code\obj\Debug\netcoreapp3.0\Singleton Real World Code.pdb
